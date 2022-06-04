@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WebSayfası:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebSayfas_jar</output-path>
+    <root id="archive" name="WebSayfası.jar">
+      <element id="module-output" name="WebSayfası" />
+    </root>
+  </artifact>
+</component>
